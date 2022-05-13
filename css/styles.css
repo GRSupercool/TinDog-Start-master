@@ -21,6 +21,9 @@ h3 {
     font-size: 1.5rem;
     font-weight: bold;
 }
+p{
+    color:#bfbfbf;
+}
 
 #title {
     background-color: #ff4c68;
@@ -154,7 +157,7 @@ h3 {
     font-weight:bold;
     background-color:#ff4c68;
     height:400px;
-    padding:11% 16%;
+    padding:7% 16%;
    
 }
 
@@ -164,6 +167,7 @@ h3 {
     background-color:#ffffff;
     text-align:center;
     margin-top:60px;
+    line-height:1.5;
 }
 .social-icons{
 padding:2% 1%;
